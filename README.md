@@ -1,2 +1,2 @@
-# minriser
+# mindriser
 my first python
